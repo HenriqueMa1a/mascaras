@@ -1,0 +1,73 @@
+/* Guia de Tabulação */
+.guia_a {
+	BORDER: 0px;
+	HEIGHT: 18px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_a.gif');
+}
+
+.guia_topo {
+	BORDER: 0px;
+	HEIGHT: 18px;
+	background-image: url('../images/guia_topo.gif');
+	FONT-SIZE: 10px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial;
+	TEXT-DECORATION: none;
+}
+
+.guia_b {
+	BORDER: 0px;
+	HEIGHT: 18px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_b.gif');
+}
+
+.guia_espaco {
+	BORDER: 0px;
+	HEIGHT: 18px;
+	WIDTH: 5px;
+	background-image: url('../images/guia_topo.gif');
+}
+
+.guia_c {
+	BORDER: 0px;
+	HEIGHT: 3px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_c.gif');
+}
+
+.guia_base {
+	BORDER: 0px;
+	HEIGHT: 3px;
+	background-image: url('../images/guia_base.gif');
+}
+
+.guia_d {
+	BORDER: 0px;
+	HEIGHT: 3px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_d.gif');
+}
+
+.guia_esq {
+	BORDER: 0px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_esq.gif');
+}
+
+.guia_branco {
+	BORDER: 0px;
+	background-image: url('../images/guia_branco.gif');
+}
+
+.guia_dir {
+	BORDER: 0px;
+	WIDTH: 3px;
+	background-image: url('../images/guia_dir.gif');
+}
+
+.guia_img {
+	BORDER: 0px;
+	CURSOR: pointer;
+}

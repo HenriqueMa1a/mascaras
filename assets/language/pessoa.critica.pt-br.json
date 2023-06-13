@@ -1,0 +1,71 @@
+{
+	"Critica": [{
+		"Id": "0",
+		"Nome": "",
+		"Imagem": ""
+	}, {
+		"Id": "1",
+		"Nome": "Data de nascimento inválida.",
+		"Imagem": ""
+	}, {
+		"Id": "2",
+		"Nome": "CPF inválido.",
+		"Imagem": ""
+	}, {
+		"Id": "3",
+		"Nome": "Data de nascimento inválida e CPF inválido.",
+		"Imagem": ""
+	}, {
+		"Id": "4",
+		"Nome": "CPF duplicado.",
+        "Imagem": ""
+	}, {
+		"Id": "5",
+		"Nome": "Data de nascimento inválida E CPF duplicado.",
+		"Imagem": ""
+	}, {
+		"Id": "6",
+		"Nome": "CPF inválido e CPF duplicado.",
+		"Imagem": ""
+	}, {
+		"Id": "7",
+		"Nome": "Data de nascimento inválida, CPF inválido e CPF duplicado.",
+		"Imagem": ""
+	}, {
+		"Id": "8",
+		"Nome": "RG não informado",
+		"Imagem": ""
+	}, {
+		"Id": "9",
+		"Nome": "Data de nascimento inválida e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "10",
+		"Nome": "RG não informado e CPF inválido.",
+		"Imagem": ""
+	}, {
+		"Id": "11",
+		"Nome": "Data de nascimento inválida, CPF inválido e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "12",
+		"Nome": "CPF duplicado e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "13",
+		"Nome": "Data de nascimento inválida, CPF duplicado e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "14",
+		"Nome": "CPF inválido, CPF duplicado e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "15",
+		"Nome": "Data de nascimento inválida, CPF inválido, CPF duplicado e RG não informado.",
+		"Imagem": ""
+	}, {
+		"Id": "16",
+		"Nome": "E-mail Duplicado",
+		"Imagem": ""
+	}]
+}

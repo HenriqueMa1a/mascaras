@@ -1,0 +1,47 @@
+{
+	"Status": [{
+		"Id": "0",
+		"Nome": "-0-",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag gray\" title=\"-0-\"><span>"
+	}, {
+		"Id": "1",
+		"Nome": "Pendente",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag gray\" title=\"Pendente\"><span>"
+	}, {
+		"Id": "2",
+		"Nome": "Registro Pendente",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag yellow\" title=\"Registro Pendente\"><span>"
+	}, {
+		"Id": "3",
+		"Nome": "Pendente de Autorização",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag orange\" title=\"Pendente de Autorização\"><span>"
+	}, {
+		"Id": "4",
+		"Nome": "Pendente (COBRAV)",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag orange\" title=\"Pendente (COBRAV)\"><span>"
+	}, {
+		"Id": "5",
+		"Nome": "Pendente de Aprovação",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag blue\" title=\"Pendente de Aprovação\"><span>"
+	}, {
+		"Id": "6",
+		"Nome": "-6-",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag gray\" title=\"-6-\"><span>"
+	}, {
+		"Id": "7",
+		"Nome": "-7-",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag gray\" title=\"-7-\"><span>"
+	}, {
+		"Id": "8",
+		"Nome": "-8-",
+		"Imagem": "<span class=\"glyphicon glyphicon-flag gray\" title=\"-8-\"><span>"
+	}, {
+		"Id": "9",
+		"Nome": "Cancelado",
+		"Imagem": "<span class=\"glyphicon glyphicon-remove-circle red\" title=\"\"><span>"
+	}, {
+		"Id": "10",
+		"Nome": "Registrado",
+		"Imagem": "<span class=\"glyphicon glyphicon-ok green\" title=\"\"><span>"
+	}]
+}

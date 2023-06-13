@@ -1,0 +1,296 @@
+/* TELA DE QUESTOES ***************************** * **************** */
+
+.bloco_video {
+    border: 1px solid #C7C7C7;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+    width: 305px;
+}
+
+#div_tempo_questao {
+    background: none repeat scroll 0 0 #000000;
+    color: #00FF00;
+    float: left;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 240px;
+}
+
+
+#div_botoes_comentario {
+    float: left;
+    height: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 240px;
+}
+#div_adicionar_comentario {
+	display: inline;
+    height: 100px;
+    margin-left: 20px;
+}
+#div_bt_todos_comentario {
+    float: left;
+    width: 1px;
+}
+#div_comentario_banca {
+	display: inline;
+    height: 100px;
+    margin-left: 20px;
+}
+
+#div_meu_comentario {
+    margin-top: 15px;
+}
+#div_questao_comentario {
+    margin-top: 15px;
+}
+#div_lista_comentarios {
+    margin-top: 14px;
+}
+.div_item_comentario {
+	border-left: 2px solid #e1e1e8;
+	background-color: #f7f7f9;
+    margin-top: 10px;
+	padding: 10px;
+}
+
+    
+
+
+.input_tempo {
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #00FF00;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    width: 120px;
+}
+.input_duracao {
+    background-color: #000000;
+    border: 1px solid #000000;
+    color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    width: 120px;
+}
+
+.txt_questoes_desempenho {
+    color: #000000;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_desempenho {
+    color: #000000;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_numeros_questao {
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+}
+.txt_questoes_total {
+    color: #59758B;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_questoes_respondidas {
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_questoes_certas {
+    color: #266E25;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_questoes_erradas {
+    color: #FF0000;
+    font-size: 12px;
+    font-weight: bold;
+}
+.txt_titulo_tempo {
+    line-height: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+.txt_tempo_questao {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+#div_titulo_questao {
+    color: #266E25;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.txt_titulo_comentario {
+    color: #59758B;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.txt_comentario {
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 11px;
+    line-height: 1.5em;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    text-align: justify;
+}
+.label_comentario {
+    color: #000000;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 1px;
+    text-align: justify;
+	font-style: italic;
+}
+.label_autor {
+    color: #000000;
+    font-size: 0.95em;
+    font-style: italic;
+}
+.label_data {
+    color: #578CCA;
+	font-size: 0.85em;
+	font-style: italic;
+}
+
+.div_enunciado {
+	float: left;
+    color: #000000;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.div_resposta {
+    color: #000000; float: left; font-family: Verdana,Arial,Tahoma,sans-serif; font-size: 1em; margin-bottom: 10px; margin-left: 15px;
+}
+
+
+.e_numero {
+    float: left;
+    font-weight: bold;
+    margin-right: 4px;
+    text-align: right;
+    vertical-align: top;
+    width: 40px;
+}
+.e_texto {
+    float: left;
+    text-align: justify;
+    width: 780px;
+}
+.r_opcao {
+    float: left;
+    width: 41px;
+}
+.r_radio {
+}
+.r_letra {
+    float: left;
+    font-weight: bold;
+    vertical-align: top;
+    width: 20px;
+}
+.r_texto {
+    float: left;
+    text-align: justify;
+    width: 750px;
+}
+
+.titulo_questao{
+    color: #266E25;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#box_enunciado {
+	width: 100%;
+	max-width: 100%;
+}
+
+.q-enunciado {
+	background-color: #fafafa;
+    color: #333333;
+    font-family: Verdana,Arial,Tahoma,sans-serif;
+    font-size: 16px;
+    text-align: justify;
+	padding: 5px;
+	width: 100%;
+	max-width: 100%;
+}
+.q-numero {
+	color: #000000;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.q-opcoes{
+	padding: 10px;
+}
+
+.q-opcao {
+    color: #000000; 
+	font-family: Verdana,Arial,Tahoma,sans-serif; 
+	font-size: 1em; 
+    text-align: justify;
+	margin-bottom: 10px; 
+}
+
+.q-opcao-letra {
+    font-weight: bold;
+    vertical-align: top;
+    width: 20px;
+}
+
+.q-opcao-texto {
+
+}
+
+.q-opcao-checkbox {
+    float: left;
+    width: 42px;
+}
+
+.titulo-relogio {
+	font-family: Verdana,Arial,Tahoma,sans-serif; 
+	font-size: 1.25em; 
+	font-weight: bold;
+	color: #54788D;
+	margin: 5px;
+}
+.img-relogio {
+	margin-right: 5px;
+}
+
+.text-relogio {
+	font-family: Verdana,Arial,Tahoma,sans-serif; 
+	font-size: 16px; 
+	font-weight: bold;
+	color: #54788D;
+}
